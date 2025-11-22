@@ -1,26 +1,10 @@
-<<<<<<< HEAD
 # AI Lingues Biotech Python Library
-=======
-<!--
- * @Author: Zeng Shengbo shengbo.zeng@ailingues.com
- * @Date: 2025-06-19 15:05:41
- * @LastEditors: Zeng Shengbo shengbo.zeng@ailingues.com
- * @LastEditTime: 10/22/2025 00:19:32
- * @FilePath: //pybiotech//README.md
- * @Description:
- * 
- * Copyright (c) 2025 by AI Lingues, All Rights Reserved. 
--->
-
-AI Lingues Biotech Python Library
-====
->>>>>>> 307a51c7d6a82f56d6b8dda8235a1c23243dfa22
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/ailingues/pybiotech)
 
-<<<<<<< HEAD
+
 pybiotech is a biology-focused toolkit from AI Lingues that builds on RDKit, PubChem, and UniProt to deliver molecule optimization, fingerprinting, structured loaders, and request modeling for data-driven biomedical workflows.
 
 ---
